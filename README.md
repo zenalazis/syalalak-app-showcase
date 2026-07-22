@@ -100,6 +100,8 @@ Jika Anda merupakan **pemilik usaha/pengepul**, **instansi/kelompok tani**, atau
 Silakan hubungi pengembang secara langsung melalui tautan di bawah ini:
 
 * 🌐 **Website Resmi**: [zenalazis.my.id](https://zenalazis.my.id/download-aplikasi-jual-beli-salak-menggunakan-java/)
+* 💼 **LinkedIn**: [Zen Al Azis](https://linkedin.com/in/zenalazis)
+* 📸 **Instagram**: [@zenalazis.dev](https://www.instagram.com/zenalazis.dev/)
 * 💬 **WhatsApp**: [Hubungi Langsung via WhatsApp](https://wasap.at/8ddHoG)
 * ✉️ **Email Direct**: [azisgames412@gmail.com](mailto:azisgames412@gmail.com)
 
