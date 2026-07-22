@@ -27,10 +27,10 @@ Proses pencatatan hasil panen dan transaksi penjualan salak secara manual sering
 ### 🔑 1. Sistem Keamanan & Autentikasi Pengguna
 Memastikan data transaksi aman dengan pemisahan hak akses otomatis (Karyawan, Manager, Owner).
 <p align="center">
-  <img src="assets/login-syalalak.png" alt="Login Syalalak" width="750"/>
+  <img src="assets/login-syalalak.png.webp" alt="Login Syalalak" width="750"/>
 </p>
 <p align="center">
-  <img src="assets/informasi-user-yang-login-pada-system.png" alt="User Active Info" width="750"/>
+  <img src="assets/informasi-user-yang-login-pada-system.png.webp" alt="User Active Info" width="750"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Memastikan data transaksi aman dengan pemisahan hak akses otomatis (Karyawan, Ma
 ### 🛒 2. Transaksi Penjualan & Kalkulator Panen Otomatis
 Dipercaya mempercepat input data transaksi harian di lokasi penimbangan dan meminimalkan kesalahan hitung.
 <p align="center">
-  <img src="asset/halaman-input-data-salak.png" alt="Input Transaksi Salak" width="750"/>
+  <img src="assets/halaman-input-data-salak.png.webp" alt="Input Transaksi Salak" width="750"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Dipercaya mempercepat input data transaksi harian di lokasi penimbangan dan memi
 ### 📊 3. Rekapitulasi & Laporan Penjualan (Executive View)
 Memudahkan pemilik usaha memantau tren penjualan, evaluasi hasil panen bulanan/tahunan, dan audit finansial.
 <p align="center">
-  <img src="asset/master-data-penjualan.png" alt="Master Data Penjualan" width="750"/>
+  <img src="assets/master-data-penjualan.png.webp" alt="Master Data Penjualan" width="750"/>
 </p>
 
 ---
@@ -54,17 +54,17 @@ Memudahkan pemilik usaha memantau tren penjualan, evaluasi hasil panen bulanan/t
 ### 👥 4. Manajemen Pengguna & Sistem Akses (Multi-Role)
 Fleksibilitas mengelola data pengguna serta mengatur hak akses operasional sesuai struktur organisasi bisnis.
 <p align="center">
-  <img src="asset/master-data-user.png" alt="Master Data User" width="750"/>
+  <img src="assets/master-data-user.png.webp" alt="Master Data User" width="750"/>
 </p>
 <p align="center">
-  <img src="asset/halaman-input-user.png" alt="Input User Baru" width="750"/>
+  <img src="assets/halaman-input-user.png.webp" alt="Input User Baru" width="750"/>
 </p>
 
 ---
 
 ### ℹ️ 5. Tentang Pengembang (About Us)
 <p align="center">
-  <img src="asset/halaman-abous-us.png" alt="About Developer" width="750"/>
+  <img src="assets/halaman-abous-us.png.webp" alt="About Developer" width="750"/>
 </p>
 
 ---
